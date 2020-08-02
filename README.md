@@ -1,1 +1,1 @@
-<img src="banner.svg"></img>
+<img src="https://raw.githubusercontent.com/duarteocarmo/duarteocarmo/master/banner.svg"></img>
