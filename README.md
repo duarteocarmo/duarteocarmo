@@ -1,5 +1,7 @@
 <a href="https://duarteocarmo.com/?ref=GitHub_Profile"><img src="https://raw.githubusercontent.com/duarteocarmo/duarteocarmo/master/banner.svg" width="100%"></img></a>
 ***
-- Read [my blog about technology, data, and other stuff I find interesting.](https://duarteocarmo.com/blog?ref=GitHub_Profile)
+- Read [my blog.](https://duarteocarmo.com/blog?ref=GitHub_Profile)
 - Connect with me [on LinkedIn.](www.linkedin.com/in/duarteocarmo)
-- Learn a bit more [about me.](https://duarteocarmo.com/about?ref=GitHub_Profile) 
+- Or learn a bit more [about me.](https://duarteocarmo.com/about?ref=GitHub_Profile) 
+
+I have an unhealthy relationship with email, and tend to respond (too?) fast. 
