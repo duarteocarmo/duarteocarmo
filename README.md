@@ -1,7 +1,5 @@
-<a href="https://duarteocarmo.com/?ref=GitHub_Profile"><img src="https://raw.githubusercontent.com/duarteocarmo/duarteocarmo/master/banner.svg" width="100%"></img></a>
-***
-- Read [my blog.](https://duarteocarmo.com/blog?ref=GitHub_Profile)
-- Connect with me [on LinkedIn.](https://linkedin.com/in/duarteocarmo)
-- Or learn a bit more [about me.](https://duarteocarmo.com/about?ref=GitHub_Profile) 
+Hello! I'm Duarte. 
 
-I have an unhealthy relationship with email, and tend to respond (too?) fast. 
+I'm a technologist, born and raised in sunny Portugal, now based in Copenhagen. My work lies in the intersection of Machine Learning, Data, Software Engineering, and People. I'm in love with Technology, and how it can improve people's lives. 
+
+To learn more about me, you can visit [my blog.](https://duarteocarmo.com/blog?ref=GitHub_Profile)
