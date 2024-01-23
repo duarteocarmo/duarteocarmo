@@ -5,4 +5,6 @@ I'm a technologist, born and raised in sunny Portugal, now based in Copenhagen. 
 To learn more about me, you can visit [my blog.](https://duarteocarmo.com/blog?ref=GitHub_Profile)
 
 
+
+
 ![Duarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=duarteocarmo&show_icons=true&theme=transparent)
